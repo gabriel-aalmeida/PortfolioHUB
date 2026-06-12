@@ -9,3 +9,13 @@ Gabriel de Almeida Alfredo - Estudante de Engenharia de Software - UNICEUB
 - Email: gabrieldealmeidaalfredo@gmail.com
 
 -(61) 99599-7601
+
+## Projetos
+
+### Perfil Profissional no GitHub
+Repositório contendo minha apresentação profissional, habilidades,
+histórico acadêmico e documentos organizados em pastas.
+
+Link: https://github.com/gabriel-aalmeida/gabriel-aalmeida
+
+Tecnologias: HTML5, CSS3, Git, GitHub, Microsoft Excel, Microsoft Access, C.
