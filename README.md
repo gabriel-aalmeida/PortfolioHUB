@@ -13,9 +13,8 @@ Gabriel de Almeida Alfredo - Estudante de Engenharia de Software - UNICEUB
 ## Projetos
 
 ### Perfil Profissional no GitHub
-Repositório contendo minha apresentação profissional, habilidades,
-histórico acadêmico e documentos organizados em pastas.
+Repositório contendo minha apresentação profissional, habilidades.
 
 Link: https://github.com/gabriel-aalmeida/gabriel-aalmeida
 
-Tecnologias: HTML5, CSS3, Git, GitHub, Microsoft Excel, Microsoft Access, C.
+### Tecnologias: HTML5, CSS3, Git, GitHub, Microsoft Excel, Microsoft Access, C.
